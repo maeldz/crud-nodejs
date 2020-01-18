@@ -1,5 +1,16 @@
-# Restful CRUD API with Node.js and Express
+# :globe_with_meridians: crud-nodejs
 
-### `yarn start`
+## :wrench: Running the project
 
-Server will be created in http://localhost:3000
+- Clone this repository.
+- Install all dependencies using the command `yarn`.
+- Enter frontend directory and run `yarn start`.
+
+## :fire: Used technologies
+
+- NodeJS
+- Express
+
+## :man: Contributors
+
+- @maeldz
